@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "title": "Why Kotlin Is a Better Option Than Java for Android App Development",
+    "description": "Kotlin is a programming language for Android app development that has been gaining popularity over the years. This video explains why Kotlin is a better option than Java for Android app development.",
+    "thumbnail": "https://i.ytimg.com/vi/bXHEHc6xlUs/mqdefault.jpg",
+    "videoUrl": "bXHEHc6xlUs"
+  },
+  {
+    "id": 2,
+    "title": "React Native Tutorial for Beginners - Build a React Native App [2022]",
+    "description": "This React Native tutorial for beginners will teach you how to build a React Native app from scratch. You'll learn how to use components, create layouts, and handle user input in this step-by-step tutorial.",
+    "thumbnail": "https://i.ytimg.com/vi/YFbp6PVbJQA/mqdefault.jpg",
+    "videoUrl": "YFbp6PVbJQA"
+  },
+  {
+    "id": 3,
+    "title": "What Is Blockchain?",
+    "description": "This video explains what blockchain is and how it works. You'll learn about the key features of blockchain, such as decentralization and immutability, and how it is used in various industries.",
+    "thumbnail": "https://i.ytimg.com/vi/vQK-E_Mzeq0/mqdefault.jpg",
+    "videoUrl": "vQK-E_Mzeq0"
+  },
+  {
+    "id": 4,
+    "title": "Top 5 Programming Languages to Learn in 2022",
+    "description": "In this video, you'll learn about the top 5 programming languages to learn in 2022. The video covers the popularity and use cases of each language, as well as resources for learning them.",
+    "thumbnail": "https://i.ytimg.com/vi/fVW8-px4Ufw/mqdefault.jpg",
+    "videoUrl": "fVW8-px4Ufw"
+  },
+  {
+    "id": 5,
+    "title": "Building a RESTful API with Node.js and Express",
+    "description": "This tutorial teaches you how to build a RESTful API with Node.js and Express. You'll learn how to set up routes, handle requests and responses, and integrate with a database.",
+    "thumbnail": "https://i.ytimg.com/vi/UT7IBT_0XcI/mqdefault.jpg",
+    "videoUrl": "UT7IBT_0XcI"
+  },
+  {
+    "id": 6,
+    "title": "What Is Machine Learning?",
+    "description": "This video explains what machine learning is and how it works. You'll learn about the different types of machine learning, such as supervised and unsupervised learning, and how they are used in various applications.",
+    "thumbnail": "https://i.ytimg.com/vi/oOeZ7IgEN4o/mqdefault.jpg",
+    "videoUrl": "oOeZ7IgEN4o"
+  },
+  {
+    "id": 7,
+    "title": "What Is Blockchain?",
+    "description": "This video explains what blockchain is and how it works. You'll learn about the key features of blockchain, such as decentralization and immutability, and how it is used in various industries.",
+    "thumbnail": "https://i.ytimg.com/vi/vQK-E_Mzeq0/mqdefault.jpg",
+    "videoUrl": "vQK-E_Mzeq0"
+  },
+  {
+    "id": 8,
+    "title": "Top 5 Programming Languages to Learn in 2022",
+    "description": "In this video, you'll learn about the top 5 programming languages to learn in 2022. The video covers the popularity and use cases of each language, as well as resources for learning them.",
+    "thumbnail": "https://i.ytimg.com/vi/fVW8-px4Ufw/mqdefault.jpg",
+    "videoUrl": "fVW8-px4Ufw"
+  },
+  {
+    "id": 9,
+    "title": "Building a RESTful API with Node.js and Express",
+    "description": "This tutorial teaches you how to build a RESTful API with Node.js and Express. You'll learn how to set up routes, handle requests and responses, and integrate with a database.",
+    "thumbnail": "https://i.ytimg.com/vi/UT7IBT_0XcI/mqdefault.jpg",
+    "videoUrl": "UT7IBT_0XcI"
+  }
+]
